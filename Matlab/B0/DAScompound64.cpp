@@ -4,7 +4,7 @@
 * 		conduct beamforming much quicker in MATLAB.
 * This function is for 32 elements (hommade probe) and 32T32R only and the method is compund method.
 * 		[rf] = DAScompound32(pt,N_active,fs,cs,xele,x,y,alpha)
-* Finished by Yuxiang Ma on 13 Aug, 2019.
+* Finished by Yuxiang Ma.
 * 
 *====================================================*/
 
